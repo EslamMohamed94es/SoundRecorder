@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">مسجل الصوت</string>
+    <string name="savethisrecord">حفظ هذا الملف ؟</string>
+    <string name="savingrecord">حفظ الملف</string>
+    <string name="yes">نعم</string>
+    <string name="no">لا</string>
+    <string name="options">الاعدادات</string>
+    <string name="share">مشاركة</string>
+    <string name="renamerecord">اعادة تسمية للملف</string>
+    <string name="backoption">يجب اولا ايقاف المشغل للرجوع للخلف</string>
+    <string name="deleteconfirmation">مسح الملف</string>
+    <string name="recording">جاري التسجيل...</string>
+    <string name="androidpause">اصدار الانرويد لديك لايدعم خاصية الايقاف المِؤقت</string>
+    <string name="savedrecord">تم حفظ المف في : </string>
+    <string name="recorderplaying">لايزال المسجل يعمل في الخلفية</string>
+    <string name="playerplaying">لايزال الملف يعمل في الخلفية</string>
+    <string name="permissingranted">تم السماح للوصول</string>
+    <string name="permissindenied">تم الرفض للوصول</string>
+    <string name="failedstartrec">فشل في بدء التسجيل</string>
+    <string name="failedsaverec">فشل في حفظ التسجيل</string>
+    <string name="failedplayrec"> فشل في تشغيل الملف</string>
+    <string name="itemdeleted">تم مسح المف</string>
+    <string name="itemupdated">تم تعديل الملف</string>
+    <string name="speakermode">تم تشغيل السماعة الرئيسية</string>
+    <string name="earpiecemode">تم تشغيل سماعة المكالمات</string>
+    <string name="deleteconf">مسح هذا الملف؟</string>
+    <string name="imagename">mic</string>
+    <string name="button">حفظ</string>
+    <string name="button4">رجوع</string>
+    <string name="button5">مسح</string>
+    <string name="edittextname">File Name</string>
+    <string name="button8">اعادة تسمية</string>
+    <string name="buttondone">اعادة تسمية</string>
+    <string name="title_activity_main3">Main3Activity</string>
+    <string name="contentdescription">Image</string>
+    <string name="stop">stop</string>
+    <string name="speaker">speaker</string>
+</resources>
